@@ -23,7 +23,7 @@ Classification: Logistic Regression, Decision Tree, Random Forest, SVC, KNN, Na�
 
 📊 Evaluation Metrics: MAE, RMSE, R², Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-📈 Visualizations: Confusion Matrix, ROC & PR Curves, Predicted vs Actual Scatterplots
+📈 Visualisations: Confusion Matrix, ROC & PR Curves, Predicted vs Actual Scatterplots
 
 📉 Statistical Sampling: Stratified sampling based on price quantiles to generate a smaller 10,000-sample dataset with identical statistical characteristics.
 
@@ -86,18 +86,6 @@ Libraries	Scikit-learn, PyTorch, Torchvision, XGBoost, LightGBM, Pandas, NumPy, 
 Environment	Jupyter Notebook
 Visualization	Matplotlib
 ML Frameworks	XGBoost, LightGBM, Scikit-learn
-🧾 Project Structure
-📦 Multimodal_Price_Prediction
- ┣ 📂 Figures/
- ┃ ┣ 📜 fig1_system_architecture.png
- ┃ ┣ 📜 fig2_model_pipeline.png
- ┃ ┗ 📜 fig3_results_comparison.png
- ┣ 📜 IEEE_Conference_Paper.docx
- ┣ 📜 IEEE_Conference_Paper.tex
- ┣ 📜 new_dataset.csv
- ┣ 📜 README.md
- ┣ 📜 amazon_ml_pipeline.ipynb
- ┗ 📜 requirements.txt
 
 ⚙️ Installation & Usage
 1. Clone Repository
